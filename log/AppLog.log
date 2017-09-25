@@ -1,0 +1,120 @@
+852  [main] INFO  26 Sep 2017 00:36:49 UserAPITest  - WebService API testing URI - https://api.github.com
+854  [main] INFO  26 Sep 2017 00:36:49 UserAPITest  - @BeforeTest: Setup done
+957  [main] INFO  26 Sep 2017 00:36:49 UserAPITest  - Total No. of Rows: 6
+968  [main] INFO  26 Sep 2017 00:36:49 UserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+5141 [main] INFO  26 Sep 2017 00:36:53 UserAPITest  - [PASSED] Status Code: 200
+5545 [main] INFO  26 Sep 2017 00:36:54 UserAPITest  - [PASSED] 'login' key value matched dubizzle
+5565 [main] INFO  26 Sep 2017 00:36:54 UserAPITest  - [PASSED] 'id' key value matched 155331
+5567 [main] INFO  26 Sep 2017 00:36:54 UserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle1
+7343 [main] INFO  26 Sep 2017 00:36:56 UserAPITest  - [PASSED] Status Code: 404
+7345 [main] INFO  26 Sep 2017 00:36:56 UserAPITest  - Rest WebService API: https://api.github.com/users/dubizzleInvalid
+8840 [main] INFO  26 Sep 2017 00:36:57 UserAPITest  - [PASSED] Status Code: 404
+884  [main] INFO  26 Sep 2017 00:37:42 UserAPITest  - WebService API testing URI - https://api.github.com
+887  [main] INFO  26 Sep 2017 00:37:42 UserAPITest  - @BeforeTest: Setup done
+971  [main] INFO  26 Sep 2017 00:37:42 UserAPITest  - Total No. of Rows: 6
+980  [main] INFO  26 Sep 2017 00:37:42 UserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+5859 [main] INFO  26 Sep 2017 00:37:47 UserAPITest  - [PASSED] Status Code: 200
+6359 [main] INFO  26 Sep 2017 00:37:48 UserAPITest  - [PASSED] 'login' key value matched dubizzle
+6380 [main] INFO  26 Sep 2017 00:37:48 UserAPITest  - [PASSED] 'id' key value matched 155331
+6382 [main] INFO  26 Sep 2017 00:37:48 UserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle1
+8060 [main] INFO  26 Sep 2017 00:37:49 UserAPITest  - [PASSED] Status Code: 404
+8061 [main] INFO  26 Sep 2017 00:37:49 UserAPITest  - Rest WebService API: https://api.github.com/users/dubizzleInvalid
+9801 [main] INFO  26 Sep 2017 00:37:51 UserAPITest  - [PASSED] Status Code: 404
+796  [main] INFO  26 Sep 2017 00:44:20 UserAPITest  - WebService API testing URI - https://api.github.com
+798  [main] INFO  26 Sep 2017 00:44:20 UserAPITest  - @BeforeTest: Setup done
+869  [main] INFO  26 Sep 2017 00:44:20 UserAPITest  - Total No. of Rows: 6
+879  [main] INFO  26 Sep 2017 00:44:20 UserAPITest  - Rest WebService API: https://api.github.com/users/zpaya
+4907 [main] INFO  26 Sep 2017 00:44:24 UserAPITest  - [PASSED] Status Code: 200
+5470 [main] INFO  26 Sep 2017 00:44:25 UserAPITest  - [PASSED] 'login' key value matched zpaya
+5494 [main] INFO  26 Sep 2017 00:44:25 UserAPITest  - [PASSED] 'id' key value matched 3122759
+5504 [main] INFO  26 Sep 2017 00:44:25 UserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle1
+7207 [main] INFO  26 Sep 2017 00:44:27 UserAPITest  - [PASSED] Status Code: 404
+7209 [main] INFO  26 Sep 2017 00:44:27 UserAPITest  - Rest WebService API: https://api.github.com/users/dubizzleInvalid
+8744 [main] INFO  26 Sep 2017 00:44:28 UserAPITest  - [PASSED] Status Code: 404
+817  [main] INFO  26 Sep 2017 00:45:07 UserAPITest  - WebService API testing URI - https://api.github.com
+820  [main] INFO  26 Sep 2017 00:45:07 UserAPITest  - @BeforeTest: Setup done
+892  [main] INFO  26 Sep 2017 00:45:07 UserAPITest  - Total No. of Rows: 6
+903  [main] INFO  26 Sep 2017 00:45:07 UserAPITest  - Rest WebService API: https://api.github.com/users/zpaya
+4901 [main] INFO  26 Sep 2017 00:45:11 UserAPITest  - [PASSED] Status Code: 200
+5285 [main] INFO  26 Sep 2017 00:45:11 UserAPITest  - [PASSED] 'login' key value matched zpaya
+5301 [main] INFO  26 Sep 2017 00:45:11 UserAPITest  - [PASSED] 'id' key value matched 3122759
+5303 [main] INFO  26 Sep 2017 00:45:11 UserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle1
+6905 [main] INFO  26 Sep 2017 00:45:13 UserAPITest  - [PASSED] Status Code: 404
+6909 [main] INFO  26 Sep 2017 00:45:13 UserAPITest  - Rest WebService API: https://api.github.com/users/dubizzleInvalid
+8336 [main] INFO  26 Sep 2017 00:45:14 UserAPITest  - [PASSED] Status Code: 404
+671  [main] INFO  26 Sep 2017 00:46:50 UserAPITest  - WebService API testing URI - https://api.github.com
+673  [main] INFO  26 Sep 2017 00:46:50 UserAPITest  - @BeforeTest: Setup done
+738  [main] INFO  26 Sep 2017 00:46:50 UserAPITest  - Total No. of Rows: 6
+745  [main] INFO  26 Sep 2017 00:46:50 UserAPITest  - Rest WebService API: https://api.github.com/users/zpaya
+4256 [main] INFO  26 Sep 2017 00:46:53 UserAPITest  - [PASSED] Status Code: 200
+4829 [main] INFO  26 Sep 2017 00:46:54 UserAPITest  - [PASSED] 'login' key value matched zpaya
+4849 [main] INFO  26 Sep 2017 00:46:54 UserAPITest  - [PASSED] 'id' key value matched 3122759
+4851 [main] INFO  26 Sep 2017 00:46:54 UserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle1
+6653 [main] INFO  26 Sep 2017 00:46:56 UserAPITest  - [PASSED] Status Code: 404
+6655 [main] INFO  26 Sep 2017 00:46:56 UserAPITest  - Rest WebService API: https://api.github.com/users/dubizzleInvalid
+8130 [main] INFO  26 Sep 2017 00:46:57 UserAPITest  - [PASSED] Status Code: 404
+952  [main] INFO  26 Sep 2017 01:05:32 UserAPITest  - WebService API testing URI - https://api.github.com
+954  [main] INFO  26 Sep 2017 01:05:32 UserAPITest  - @BeforeTest: Setup done
+1119 [main] INFO  26 Sep 2017 01:05:32 UserAPITest  - Total No. of Rows: 6
+1127 [main] INFO  26 Sep 2017 01:05:32 UserAPITest  - Rest WebService API: https://api.github.com/users/zpaya
+6949 [main] INFO  26 Sep 2017 01:05:38 UserAPITest  - [PASSED] Status Code: 200
+7365 [main] INFO  26 Sep 2017 01:05:38 UserAPITest  - [PASSED] 'login' key value matched zpaya
+7383 [main] INFO  26 Sep 2017 01:05:38 UserAPITest  - [PASSED] 'id' key value matched 3122759
+7384 [main] INFO  26 Sep 2017 01:05:38 UserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle1
+10037 [main] INFO  26 Sep 2017 01:05:41 UserAPITest  - [PASSED] Status Code: 404
+10039 [main] INFO  26 Sep 2017 01:05:41 UserAPITest  - Rest WebService API: https://api.github.com/users/dubizzleInvalid
+13059 [main] INFO  26 Sep 2017 01:05:44 UserAPITest  - [PASSED] Status Code: 404
+881  [main] INFO  26 Sep 2017 01:07:36 UserAPITest  - WebService API testing URI - https://api.github.com
+882  [main] INFO  26 Sep 2017 01:07:36 UserAPITest  - @BeforeTest: Setup done
+1082 [main] INFO  26 Sep 2017 01:07:36 UserAPITest  - Total No. of Rows: 6
+1093 [main] INFO  26 Sep 2017 01:07:36 UserAPITest  - Rest WebService API: https://api.github.com/users/zpaya
+4994 [main] INFO  26 Sep 2017 01:07:40 UserAPITest  - [PASSED] Status Code: 200
+5571 [main] INFO  26 Sep 2017 01:07:40 UserAPITest  - [PASSED] 'login' key value matched zpaya
+5607 [main] INFO  26 Sep 2017 01:07:40 UserAPITest  - [PASSED] 'id' key value matched 3122759
+5609 [main] INFO  26 Sep 2017 01:07:40 UserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle1
+7565 [main] INFO  26 Sep 2017 01:07:42 UserAPITest  - [PASSED] Status Code: 404
+7568 [main] INFO  26 Sep 2017 01:07:42 UserAPITest  - Rest WebService API: https://api.github.com/users/dubizzleInvalid
+9707 [main] INFO  26 Sep 2017 01:07:45 UserAPITest  - [PASSED] Status Code: 404
+831  [main] INFO  26 Sep 2017 01:10:29 UserAPITest  - WebService API testing URI - https://api.github.com
+832  [main] INFO  26 Sep 2017 01:10:29 UserAPITest  - @BeforeTest: Setup done
+974  [main] INFO  26 Sep 2017 01:10:29 UserAPITest  - Total No. of Rows: 6
+982  [main] INFO  26 Sep 2017 01:10:29 UserAPITest  - Rest WebService API: https://api.github.com/users/zpaya
+6606 [main] INFO  26 Sep 2017 01:10:34 UserAPITest  - [PASSED] Status Code: 200
+7050 [main] INFO  26 Sep 2017 01:10:35 UserAPITest  - [PASSED] 'login' key value matched zpaya
+7068 [main] INFO  26 Sep 2017 01:10:35 UserAPITest  - [PASSED] 'id' key value matched 3122759
+7069 [main] INFO  26 Sep 2017 01:10:35 UserAPITest  - Rest WebService API: https://api.github.com/users/zpaya1
+9071 [main] INFO  26 Sep 2017 01:10:37 UserAPITest  - [PASSED] Status Code: 404
+855  [main] INFO  26 Sep 2017 01:13:19 UserAPITest  - WebService API testing URI - https://api.github.com
+857  [main] INFO  26 Sep 2017 01:13:19 UserAPITest  - @BeforeTest: Setup done
+1046 [main] INFO  26 Sep 2017 01:13:20 UserAPITest  - Total No. of Rows: 6
+1053 [main] INFO  26 Sep 2017 01:13:20 UserAPITest  - Rest WebService API: https://api.github.com/users/zpaya
+4463 [main] INFO  26 Sep 2017 01:13:23 UserAPITest  - [PASSED] Status Code: 200
+5087 [main] INFO  26 Sep 2017 01:13:24 UserAPITest  - [PASSED] 'login' key value matched zpaya
+5104 [main] INFO  26 Sep 2017 01:13:24 UserAPITest  - [PASSED] 'id' key value matched 3122759
+5106 [main] INFO  26 Sep 2017 01:13:24 UserAPITest  - Rest WebService API: https://api.github.com/users/zpaya1
+6633 [main] INFO  26 Sep 2017 01:13:25 UserAPITest  - [PASSED] Status Code: 404
+890  [main] INFO  26 Sep 2017 01:21:42 UserAPITest  - WebService API testing URI - https://api.github.com
+893  [main] INFO  26 Sep 2017 01:21:42 UserAPITest  - @BeforeTest: Setup done
+1091 [main] INFO  26 Sep 2017 01:21:42 UserAPITest  - Total No. of Rows: 6
+1101 [main] INFO  26 Sep 2017 01:21:42 UserAPITest  - Rest WebService API: https://api.github.com/users/zpaya
+4779 [main] INFO  26 Sep 2017 01:21:46 UserAPITest  - [PASSED] Status Code: 200
+5121 [main] INFO  26 Sep 2017 01:21:46 UserAPITest  - [PASSED] 'login' key value matched zpaya
+5144 [main] INFO  26 Sep 2017 01:21:46 UserAPITest  - [PASSED] 'id' key value matched 3122759
+5146 [main] INFO  26 Sep 2017 01:21:46 UserAPITest  - Rest WebService API: https://api.github.com/users/zpaya1
+6765 [main] INFO  26 Sep 2017 01:21:48 UserAPITest  - [PASSED] Status Code: 404
+2317 [main] INFO  26 Sep 2017 01:26:24 UserAPITest  - WebService API testing URI - https://api.github.com
+2320 [main] INFO  26 Sep 2017 01:26:24 UserAPITest  - @BeforeTest: Setup done
+2602 [main] INFO  26 Sep 2017 01:26:24 UserAPITest  - Total No. of Rows: 6
+2615 [main] INFO  26 Sep 2017 01:26:24 UserAPITest  - Rest WebService API: https://api.github.com/users/zpaya
+7239 [main] INFO  26 Sep 2017 01:26:29 UserAPITest  - [PASSED] Status Code: 200
+7924 [main] INFO  26 Sep 2017 01:26:29 UserAPITest  - [PASSED] 'login' key value matched zpaya
+7946 [main] INFO  26 Sep 2017 01:26:29 UserAPITest  - [PASSED] 'id' key value matched 3122759
+7947 [main] INFO  26 Sep 2017 01:26:29 UserAPITest  - Rest WebService API: https://api.github.com/users/zpaya1
+1519 [main] INFO  26 Sep 2017 02:06:42 UserAPITest  - WebService API testing URI - https://api.github.com
+1521 [main] INFO  26 Sep 2017 02:06:42 UserAPITest  - @BeforeTest: Setup done
+1778 [main] INFO  26 Sep 2017 02:06:42 UserAPITest  - Total No. of Rows: 6
+1787 [main] INFO  26 Sep 2017 02:06:42 UserAPITest  - Rest WebService API: https://api.github.com/users/zpaya
+7319 [main] INFO  26 Sep 2017 02:06:48 UserAPITest  - [PASSED] Status Code: 200
+8061 [main] INFO  26 Sep 2017 02:06:48 UserAPITest  - [PASSED] 'login' key value matched zpaya
+8094 [main] INFO  26 Sep 2017 02:06:48 UserAPITest  - [PASSED] 'id' key value matched 3122759
+8099 [main] INFO  26 Sep 2017 02:06:48 UserAPITest  - Rest WebService API: https://api.github.com/users/zpaya1

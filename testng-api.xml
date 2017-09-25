@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Github API" verbose="1">
+	
+	<test name="Github API Test">
+		<!-- <parameter name="url" value="URLNAME_OR_LINK" /> -->
+		<!-- <groups>
+			<run>
+				<include name="testng" />
+			</run>
+		</groups> -->
+		<classes>
+			<class name="aut.testcases.UserAPITest" />
+		</classes>
+	</test>
+</suite>
