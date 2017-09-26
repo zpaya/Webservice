@@ -12,11 +12,12 @@ public class ExcelCellsConstant {
 
 	public static final class UserAPISheet {
 		public static final int COL_EXECUTE = 0;
-		public static final int COL_URI = 1;
-		public static final int COL_STATUS_CODE = 2;
-		public static final int COL_LOGIN = 3;
-		public static final int COL_ID = 4;
-		public static final int COL_BLOG = 5;
+		public static final int COL_SCENARIO = 1;
+		public static final int COL_URI = 2;
+		public static final int COL_STATUS_CODE = 3;
+		public static final int COL_LOGIN = 4;
+		public static final int COL_ID = 5;
+		
 	}
 	
 	public static final class RepoAPISheet {
